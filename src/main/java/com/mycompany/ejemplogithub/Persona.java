@@ -28,6 +28,8 @@ public class Persona {
     }
 
     // Getters y Setters
+    //Añadimos más comentarios
+    //más comentarios
     public String getNombre() {
         return nombre;
     }
